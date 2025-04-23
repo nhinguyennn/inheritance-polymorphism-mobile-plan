@@ -1,5 +1,5 @@
 # inheritance-polymorphism-mobile-plan
-C++ program that calculates the most optimal mobile plan for cell-phone users of a hypothetical telecommunications company. The project has class definitions such as Customer, Premium_Customer, containing data members such as name and monththly call amounts. There are no other contributors, nor maintaining of this program. Class instructions are below. 
+C++ program that calculates the most optimal mobile plan for cell-phone users of a hypothetical telecommunications company. There are no other contributors, nor maintaining of this program. Class instructions are below. 
 
 - Write class definitions for Customer and for a derived class Premium_Customer.  Customer should contain data members common to all customers, like name, numbers of calls made in a month, and so on. 
 
